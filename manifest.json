@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "coupang sidebar",
+    "description": "쿠팡사이드바",
+    "version": "1.1",    
+    "sidebar_action": {
+       "default_icon": {
+          "128": "images/icon.png"
+       },
+       "default_page": "https://www.coupang.com",
+       "default_title": "쿠팡사이드바",
+       "use_navigation_bar": true
+    }
+ }
+ 
